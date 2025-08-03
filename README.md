@@ -9,6 +9,7 @@
 - QA com sólida experiência em **automação de testes Front-end com Cypress** e **Back-end (API) com Rest Assured + JUnit**.
 - Criação do **planejamento de testes do zero**, incluindo estratégias de validação, testes exploratórios, manuais e automação.
 - Atuação em **projetos de e-commerce integrados com VTEX**, sistemas **ERP**, e **aplicativos móveis com VPN** para dispositivos Android/iOS.
+- Integração de pipelines **CI/CD** para execução automatizada de testes em ambientes de homologação e produção.
 - Colaboração com **squads ágeis**, utilizando ferramentas como **Jira**, **Miro**, **Notion**, **TeamWorks** e **Monday**.
 - Conhecimentos técnicos em **HTML**, **CSS**, **JavaScript**, **TypeScript**, **MongoDB** e **PostgreSQL**.
 
@@ -53,8 +54,6 @@
 ---
 
 ## 🧠 O que estou estudando agora:
-- 🧪 Integração de testes automatizados com pipelines CI/CD
-- ⚙️ Testes com Playwright
 - 🤖 Exploração de IA aplicada à automação de QA
 
 ---
