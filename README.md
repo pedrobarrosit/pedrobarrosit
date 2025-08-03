@@ -38,8 +38,7 @@
 ### Dev Tools & Produtividade:
 - 📌 Jira | Notion | Miro | Monday | TeamWorks
 - 🧪 Postman | Insomnia
-- 🔍 Git | GitHub | CI/CD (em progresso)
-
+- 🔍 Git | GitHub | CI/CD 
 ---
 
 ## 📂 Projetos em Destaque
