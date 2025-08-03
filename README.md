@@ -60,7 +60,7 @@
 ## 📫 Contato
 
 - 📍 Paulista - PE, Brasil  
-- ✉️ pedrojorgeqa@gmail.com  
+- ✉️ pedroo.barros2093@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedrojorgeqa/)  
 
 ---
