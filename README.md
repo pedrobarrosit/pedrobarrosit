@@ -1,4 +1,4 @@
-# 👨‍💻 Pedro Jorge | Quality Assurance Engineer
+# 👨‍💻 Pedro Barros | Quality Assurance Engineer
 
 🎯 Engenheiro de Qualidade com mais de 3 anos de experiência em automação de testes de software, atuando em projetos nacionais e internacionais. Tenho paixão por garantir a entrega de produtos robustos, funcionais e com foco na melhor experiência para o usuário final.
 
